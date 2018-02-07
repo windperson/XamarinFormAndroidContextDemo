@@ -12,6 +12,8 @@ namespace XamarinFormAndroidContextDemo
 		public MainPage()
 		{
 			InitializeComponent();
+		    var version = DependencyService.Get<IAppVersionHelper>().GetVersion();
+            Console.WriteLine($"version={version}");
 		}
 	}
 }

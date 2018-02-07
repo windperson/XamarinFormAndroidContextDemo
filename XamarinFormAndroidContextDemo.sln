@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinFormAndroidContextDemo.Android", "XamarinFormAndroidContextDemo\XamarinFormAndroidContextDemo.Android\XamarinFormAndroidContextDemo.Android.csproj", "{D791E3AC-805E-4F7C-8EBF-ED17C948CE8A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinFormAndroidContextDemo.Android", "XamarinFormAndroidContextDemo.Android\XamarinFormAndroidContextDemo.Android.csproj", "{D791E3AC-805E-4F7C-8EBF-ED17C948CE8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinFormAndroidContextDemo", "XamarinFormAndroidContextDemo\XamarinFormAndroidContextDemo\XamarinFormAndroidContextDemo.csproj", "{EDE12F69-7C9E-44FB-87F1-54F156E61007}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinFormAndroidContextDemo", "XamarinFormAndroidContextDemo\XamarinFormAndroidContextDemo.csproj", "{EDE12F69-7C9E-44FB-87F1-54F156E61007}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
